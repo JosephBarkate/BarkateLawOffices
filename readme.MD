@@ -19,3 +19,7 @@ Follow along with the course linked above. To start the server:
 npm install
 npm start
 ```
+
+Joe Edits
+----------
+-Currently on Module 3 of PluralSight
