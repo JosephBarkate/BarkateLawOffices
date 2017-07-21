@@ -22,4 +22,5 @@ npm start
 
 Joe Edits
 ----------
--Currently on Module 3 of PluralSight
+Currently on Module 4 of PluralSight's course at: 
+https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents
