@@ -1,6 +1,6 @@
 Angular 2+ Fundamentals Course
 ========================
-This is the getting started package for the Pluralsight course on Angular 2 Fundamentals found here: http://app.pluralsight.com/courses/angular-fundamentals
+This is Joe's edit for the Pluralsight course on Angular 2 Fundamentals found here: http://app.pluralsight.com/courses/angular-fundamentals
 
 **Course Status**
 
@@ -22,5 +22,4 @@ npm start
 
 Joe Edits
 ----------
-Currently on Module 4 of PluralSight's course at: 
-https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents
+Currently on Module 5 of PluralSight's course.
